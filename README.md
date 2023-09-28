@@ -4,4 +4,4 @@ This project was built for imaginary hotel system were employees of this hotel c
 
 As a technology stack was used ReactJS + Vite and Supabase as a server side. Libraries that were used in this project are: React Query, React Router, Styled Components and others.
 
-Use this link to see the project: https://the-wild-oasis-reactjs.vercel.app/
+Use this link to see the project: https://lavvalneit-wild-oasis-reactjs.netlify.app/
